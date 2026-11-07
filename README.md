@@ -26,7 +26,7 @@
 | Приложения | Что давно не открывали; удаление вместе со служебными файлами программы |
 | Карта диска | Что занимает место во всей домашней папке или на выбранном диске, прямоугольниками по размеру |
 | Дубликаты | Одинаковые файлы, сравнение по содержимому |
-| Окна | Прилипание к краям и углам экрана при перетаскивании, горячие клавиши для половин, четвертей и полного экрана |
+| Окна | Прилипание при перетаскивании: край — половина экрана, угол — четверть, самый верх — весь экран |
 | Раскладка | Исправляет «ghb» → «при» прямо при наборе; универсальная клавиша (по умолчанию нажатие Fn); сниппеты через `]` |
 | Буфер обмена | История с текстом, картинками и файлами; окно у курсора по ⌘⇧V, стрелки, Enter, цифры 1–9 |
 | Текст с экрана | Выделите область — текст окажется в буфере обмена |
@@ -142,7 +142,7 @@ keyboard lock and archive preview. Nothing goes to the internet except the updat
 | Applications | What you have not opened for a long time; removal together with the app’s support files |
 | Disk map | What takes space in your whole home folder or on a disk you choose, as rectangles by size |
 | Duplicates | Identical files, compared by content |
-| Windows | Snap to screen edges and corners while dragging; shortcuts for halves, quarters and full screen |
+| Windows | Snap while dragging: an edge is half the screen, a corner a quarter, the very top the full screen |
 | Keyboard layout | Fixes text typed in the wrong layout as you type; a universal key (Fn press by default); snippets with `]` |
 | Clipboard | History of text, images and files; a window at the pointer with ⌘⇧V, arrows, Enter, digits 1–9 |
 | Text from screen | Select an area and its text lands on the clipboard |

@@ -490,7 +490,7 @@ SOFTWARE.
 ---
 
 ## RuSwitcher (MIT)
-https://github.com/rashn/RuSwitcher — commit 67bd3317ca346d062755cf8457b71a61d7559986. Used for: whole-word layout decision (Russian / English) — Sources/ThirdParty/RuSwitcher.
+https://github.com/rashn/RuSwitcher — commit cabc8cfce0a298bbffc3b8fd5a10065c6e9c7e67. Used for: the engine of the Layout tool (typing buffer by key codes, key tables of a layout pair, word decision, word-by-word conversion of a selection, how text is retyped and how layouts are selected) — Sources/ThirdParty/RuSwitcher, Features/Layout. The name and the icon of RuSwitcher are not used.
 
 ```
 MIT License
